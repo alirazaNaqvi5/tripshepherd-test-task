@@ -13,8 +13,6 @@ This is a simple Todo List application for test task given by Tripshepherd compa
 - [Running the Emulator](#running-the-emulator)
 - [API Endpoints](#api-endpoints)
 - [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
